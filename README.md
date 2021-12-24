@@ -2,7 +2,7 @@
 
 ## chaining
 
-週期性的創建區塊
+Create Block for every second (週期性的創建區塊)
 
 ```
 $ ./run.sh create chain
