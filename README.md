@@ -11,7 +11,7 @@ $ ./run.sh start chaining
 
 ## mining
 
-持續的挖礦
+mining continuously (持續的挖礦)
 
 ```
 $ ./run.sh start mining
